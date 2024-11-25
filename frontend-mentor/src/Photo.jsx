@@ -1,4 +1,4 @@
-import fotoPerfil from "/src/images/profile.jpeg";
+import fotoPerfil from "./assets/profile.jpeg";
 
 function Photo() {
   return <img src={fotoPerfil} alt="" className="photo" />;
