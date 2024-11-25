@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <Photo />
       <h1>Caio Gusmão</h1>
-      <h2>Minhas Gerais, Brazil</h2>
+      <h2>Minas Gerais, Brazil</h2>
       <p>"Front-end developer and Content Creator."</p>
       <div className="links">
         <Link
