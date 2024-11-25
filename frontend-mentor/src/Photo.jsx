@@ -1,6 +1,6 @@
-import Perfil from "/public/static/profile.jpeg";
+import fotoPerfil from "/src/images/profile.jpeg";
 
 function Photo() {
-  return <img src={Perfil} alt="" className="photo" />;
+  return <img src={fotoPerfil} alt="" className="photo" />;
 }
 export default Photo;
