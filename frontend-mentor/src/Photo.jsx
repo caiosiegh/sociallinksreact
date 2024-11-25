@@ -1,4 +1,4 @@
 function Photo() {
-  return <img src={"./public/profile.jpeg"} alt="" className="photo" />;
+  return <img src={"src/Images/profile.jpeg"} alt="" className="photo" />;
 }
 export default Photo;
