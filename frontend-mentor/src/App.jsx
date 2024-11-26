@@ -6,23 +6,18 @@ function App() {
   return (
     <div className="container">
       <Photo />
-      <h1>Caio Gusmão</h1>
-      <h2>Minas Gerais, Brazil</h2>
-      <p>"Front-end developer and Content Creator."</p>
+      <h1>Jessica Randall</h1>
+      <h2>London, United Kingdom</h2>
+      <p>"Front-end developer and avid reader."</p>
       <div className="links">
-        <Link
-          title="GitHub"
-          site={"https://github.com/caiosiegh?tab=repositories"}
-        ></Link>
+        <Link title="GitHub" site={"https://github.com"}></Link>
         <Link
           title="Frontend Mentor"
-          site={"https://www.frontendmentor.io/profile/caiosiegh"}
+          site={"https://www.frontendmentor.io"}
         ></Link>
-        <Link
-          title="LinkedIn"
-          site={"https://www.linkedin.com/in/caiosiegh/"}
-        ></Link>
-        <Link title="YouTube" site={"https://www.youtube.com/@Siegh"}></Link>
+        <Link title="LinkedIn" site={"https://www.linkedin.com"}></Link>
+        <Link title="Twitter" site={"https://x.com/?lang=pt-br"}></Link>
+        <Link title="YouTube" site={"https://www.youtube.com"}></Link>
       </div>
     </div>
   );
